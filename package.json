@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "rc-server",
     "gh-pages": "rc-tools run gh-pages",
+    "pub": "rc-tools run pub",
     "test": "mocha"
   },
   "author": "chencheng <sorrycc@gmail.com>",
