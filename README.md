@@ -6,7 +6,7 @@ A Higher Order Component to keep component state in a Redux store.
 
 ## Example
 
-online example: http://sorrycc.github.io/redux-bind/examples/
+online example: http://sorrycc.github.io/redux-bind/
 
 ## TODO:
 
