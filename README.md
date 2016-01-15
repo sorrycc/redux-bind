@@ -8,11 +8,11 @@ A Higher Order Component to keep component state in a Redux store.
 
 online example: http://sorrycc.github.io/redux-bind/
 
-## Docs
+## Doc
 
 - [Get Started with redux-bind](https://github.com/sorrycc/redux-bind/issues/1)
 
-## TODO:
+## TODO
 
 - [x] hot reload
 - [x] add middleware to handle functions in xxx
