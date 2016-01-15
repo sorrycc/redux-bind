@@ -1,0 +1,29 @@
+{
+  "name": "redux-bind",
+  "version": "0.1.0",
+  "description": "A Higher Order Component to keep component state in a Redux store.",
+  "main": "index.js",
+  "config": {
+    "port": 8000
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "rc-server"
+  },
+  "author": "chencheng <sorrycc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "antd": "^0.12.0-beta.10",
+    "rc-server": "3.3.x",
+    "rc-tools": "4.4.x",
+    "react-dom": "^0.14.6"
+  },
+  "dependencies": {
+    "deep-equal": "~1.0.1"
+  },
+  "peerDependencies": {
+    "react": "0.14.x",
+    "react-redux": "4.0.x",
+    "redux": "3.0.x"
+  }
+}
