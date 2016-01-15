@@ -2,7 +2,7 @@
   "name": "redux-bind",
   "version": "0.1.0",
   "description": "A Higher Order Component to keep component state in a Redux store.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "config": {
     "port": 8000
   },
