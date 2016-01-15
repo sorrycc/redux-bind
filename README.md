@@ -10,7 +10,7 @@ online example: http://sorrycc.github.io/redux-bind/
 
 ## Docs
 
-- [Get Start](https://github.com/sorrycc/redux-bind/issues/1)
+- [Get Started with redux-bind](https://github.com/sorrycc/redux-bind/issues/1)
 
 ## TODO:
 
