@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider, connect } from 'react-redux';
 import { createStore, combineReducers, applyMiddleware } from 'redux';
-import { createBind, reducer, middleware } from '../index';
+import { createBind, reducer, middleware } from '../src/index';
 import Button from 'antd/lib/button';
 import Modal from 'antd/lib/modal';
 

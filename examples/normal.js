@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider, connect } from 'react-redux';
 import { createStore, combineReducers, applyMiddleware } from 'redux';
-import { createBind, reducer, middleware } from '../index';
+import { createBind, reducer, middleware } from '../src/index';
 
 const Box = React.createClass({
   render() {

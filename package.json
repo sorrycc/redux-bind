@@ -7,8 +7,9 @@
     "port": 8000
   },
   "scripts": {
-    "test": "mocha",
-    "dev": "rc-server"
+    "dev": "rc-server",
+    "gh-pages": "rc-tools run gh-pages",
+    "test": "mocha"
   },
   "author": "chencheng <sorrycc@gmail.com>",
   "license": "MIT",
